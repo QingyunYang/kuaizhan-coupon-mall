@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kuaizhan-coupon-mall/static/css/main.2cce8147.chunk.css",
+    "main.js": "/kuaizhan-coupon-mall/static/js/main.2726e807.chunk.js",
+    "main.js.map": "/kuaizhan-coupon-mall/static/js/main.2726e807.chunk.js.map",
+    "runtime~main.js": "/kuaizhan-coupon-mall/static/js/runtime~main.688afd1d.js",
+    "runtime~main.js.map": "/kuaizhan-coupon-mall/static/js/runtime~main.688afd1d.js.map",
+    "static/js/2.f718439e.chunk.js": "/kuaizhan-coupon-mall/static/js/2.f718439e.chunk.js",
+    "static/js/2.f718439e.chunk.js.map": "/kuaizhan-coupon-mall/static/js/2.f718439e.chunk.js.map",
+    "index.html": "/kuaizhan-coupon-mall/index.html",
+    "precache-manifest.6ca4d129f83b0dbe2d832cff5da9ae1a.js": "/kuaizhan-coupon-mall/precache-manifest.6ca4d129f83b0dbe2d832cff5da9ae1a.js",
+    "service-worker.js": "/kuaizhan-coupon-mall/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/kuaizhan-coupon-mall/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/kuaizhan-coupon-mall/static/media/logo.5d5d9eef.svg"
+  }
+}
